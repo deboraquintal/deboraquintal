@@ -1,9 +1,10 @@
-### Hi! I'm Débora R Quintal 👋
+### Hi! I'm Débora R Quintal 👋 I am graduating in History and recently I started to learn web development 😆
 ##
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 📫 How to reach me: debora_quintal@hotmail.com
 - 😄 Pronouns: she/her
+- 🥰 Loves: cats, books, travels, nature
 ##
 
 <div align="center">
