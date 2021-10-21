@@ -1,4 +1,4 @@
-### Hi! I'm Debora R Quintal 👋
+### Hi! I'm Débora R Quintal 👋
 ##
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
