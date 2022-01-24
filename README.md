@@ -1,4 +1,4 @@
-### Hi! I'm Débora R Quintal 👋 I am graduating in History and recently I started to learn web development 😆
+### Hi! I'm Débora R Quintal 👋 I am studying web development 😆
 ##
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
