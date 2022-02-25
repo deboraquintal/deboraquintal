@@ -1,4 +1,4 @@
-### Hi! I'm Débora R Quintal 👋 I am studying to be a Software Engeneer 😆
+### Hi! I'm Débora R Quintal 👋 I am studying to be a Software Engineer 😆
 ##
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
