@@ -2,7 +2,7 @@
 ##
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💻 Recently, I started to learn SQL, AWS and Ruby.
+- 💻 Recently, I started to learn React.
 - 📫 How to reach me: debora_quintal@hotmail.com
 - 😄 Pronouns: she/her
 - 🥰 Loves: cats, books, travels, nature
